@@ -1,0 +1,9 @@
+div{
+	border: 1px solid black;
+	display:inline-block;
+	margin:30px;
+	width:100px;
+}
+body{
+    padding-top:30px;
+}
